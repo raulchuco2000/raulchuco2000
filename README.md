@@ -1,71 +1,66 @@
-<h1 align="center">¡Hola! Soy Gerson R. Chuco 👋</h1>
+# Hi there! I'm Raúl 👋
+**Cloud Systems Engineer | Data Engineering & Dynamics 365 Enthusiast**
 
-<h3 align="center">Cloud Engineer | Azure | IT Systems & Infraestructura</h3>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/gerson-raul-chuco" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:raulchuco2000@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/) 
+[![Credly](https://img.shields.io/badge/Credly-Certifications-green?style=flat&logo=credly)](https://www.credly.com/)
 
 ---
 
-### 👨‍💻 Sobre mí
+### 🇬🇧 English Profile
 
-Ingeniero de Sistemas con más de 3 años de experiencia en administración de infraestructuras IT, soporte avanzado (Niveles 2 y 3) y gestión integral de usuarios. Mi perfil combina una sólida base técnica en entornos tradicionales (administración en Windows Server, Active Directory, maquetación de equipos y resolución ágil de incidentes) con una transición activa hacia el diseño de arquitecturas cloud y automatización.
+👨‍💻 **About Me**
+Systems Engineer with 3+ years of experience in IT infrastructure management and advanced L2/L3 support. My profile bridges a solid technical foundation in traditional environments (Windows Server, Active Directory, robust incident resolution) with an active transition towards Cloud Architecture, Data Engineering, and Business Applications. 
 
-Me enfoco en aportar valor real al negocio reduciendo tareas manuales y asegurando la continuidad del servicio. A lo largo de mi trayectoria, he logrado hitos tangibles como:
-* ⏱️ Ahorrar **20 horas mensuales** en tareas operativas mediante la creación de scripts de automatización en **PowerShell**.
-* 🛡️ Mantener infraestructuras críticas con un **99.9% de disponibilidad** y cero incidentes críticos sostenidos.
-* 🎫 Gestionar y resolver incidencias de manera eficiente utilizando sistemas ITSM corporativos como **ServiceNow** y **BMC Remedy**.
+I focus on delivering real business value by reducing manual tasks and ensuring service continuity. 
 
-Actualmente, sigo escalando mis capacidades técnicas con formaciones avanzadas:
-* 🎓 **Especialización en Cloud & Data Engineering** (En curso).
-* 🎓 **Máster Consultor Dynamics 365: Business Central + Power Platform 5.**
+**Key Achievements:**
+* ⏱️ **Saved 20+ hours/month** in operational tasks by developing PowerShell automation scripts.
+* 🛡️ Maintained critical infrastructures with **99.9% uptime** and zero sustained critical incidents.
+* 🎫 Efficiently managed and resolved incidents using corporate ITSM systems like ServiceNow and BMC Remedy.
 
-- 🏆 **Certificaciones Oficiales:** Azure Fundamentals (AZ-900), Security & Compliance (SC-900), M365 Copilot Admin (AB-900).
-- 🚀 **En preparación:** AZ-104, AZ-400, DP-700 y AZ-140.
+🎓 **Current Studies & Certifications**
+* **Master's Degree:** Dynamics 365 & Power Platform (Started Sept 2026)
+* **Certifications:** Microsoft Certified: Fabric Data Engineer Associate (DP-700) | Fabric Analytics Engineer Associate (DP-600) | Azure Fundamentals (AZ-900) | Security & Compliance (SC-900) | M365 Copilot Admin
+* **In Preparation:** AZ-104, AZ-400
 
----
-
-### 🛠️ Stack Técnico y Herramientas
-
-**Cloud, DevOps & Seguridad**
-<br>
-<img src="https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Azure" />
-<img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform" />
-<img src="https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white" alt="Azure DevOps" />
-<img src="https://img.shields.io/badge/Zero_Trust-000000?style=for-the-badge&logo=security&logoColor=white" alt="Zero Trust" />
-
-**Sistemas, Automatización & Operaciones**
-<br>
-<img src="https://img.shields.io/badge/Windows_Server-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows Server" />
-<img src="https://img.shields.io/badge/Active_Directory-0078D6?style=for-the-badge&logo=microsoft&logoColor=white" alt="Active Directory" />
-<img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" alt="PowerShell" />
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
-<img src="https://img.shields.io/badge/ServiceNow-81B5A1?style=for-the-badge&logo=servicenow&logoColor=white" alt="ServiceNow" />
-
-**Datos, Negocio & Desarrollo**
-<br>
-<img src="https://img.shields.io/badge/Azure_Data_Explorer-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="ADX" />
-<img src="https://img.shields.io/badge/Dynamics_365-002050?style=for-the-badge&logo=microsoft&logoColor=white" alt="Dynamics 365" />
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+📂 **Featured Projects**
+* 📊 **Data Engineering Pipeline:** End-to-end EL ingestion pipeline into a Data Lake. 
+* ☁️ **Cloud Architecture & Terraform (PoC):** Design and deployment of a scalable architecture using VNets and NSGs. Applied Infrastructure as Code (IaC) principles to reduce manual deployments and enforce Zero Trust security.
+* 📈 **Observability with Azure Data Explorer (ADX):** Built telemetry solutions and deep log analysis for IT operations to facilitate data-driven decision-making.
 
 ---
 
-### 📂 Proyectos Destacados
+### 🇪🇸 Perfil en Español
 
-* ☁️ **Arquitectura Cloud & Terraform (PoC):** Diseño y despliegue de una arquitectura escalable utilizando redes virtuales (VNets) y grupos de seguridad (NSGs). Aplicación de principios de infraestructura como código (IaC) para reducir despliegues manuales y reforzar la seguridad bajo el modelo Zero Trust.
-* 📊 **Observabilidad con Azure Data Explorer (ADX):** Construcción de soluciones de telemetría y análisis profundo de logs para operaciones IT. Elaboración de documentación y recursos técnicos para facilitar la toma de decisiones basada en datos.
+👨‍💻 **Sobre mí**
+Ingeniero de Sistemas con más de 3 años de experiencia en administración de infraestructuras IT y soporte avanzado (Niveles 2 y 3). Mi perfil combina una sólida base técnica en entornos tradicionales (administración en Windows Server, Active Directory, resolución ágil de incidentes) con una transición activa hacia el diseño de arquitecturas Cloud, Data Engineering y aplicaciones de negocio.
+
+Me enfoco en aportar valor real al negocio reduciendo tareas manuales y asegurando la continuidad del servicio.
+
+**Hitos Destacados:**
+* ⏱️ **Ahorro de más de 20 horas mensuales** en tareas operativas mediante la creación de scripts de automatización en PowerShell.
+* 🛡️ Mantenimiento de infraestructuras críticas con un **99.9% de disponibilidad** y cero incidentes críticos sostenidos.
+* 🎫 Gestión y resolución eficiente de incidencias utilizando sistemas ITSM corporativos como ServiceNow y BMC Remedy.
+
+🎓 **Formación y Certificaciones**
+* **Máster:** Consultor Dynamics 365 y Power Platform (Iniciado en Sept 2026)
+* **Certificaciones Oficiales:** Microsoft Certified: Fabric Data Engineer Associate (DP-700) | Fabric Analytics Engineer Associate (DP-600) | Azure Fundamentals (AZ-900) | Security & Compliance (SC-900) | M365 Copilot Admin
+* **En preparación:** AZ-104, AZ-400
+
+📂 **Proyectos Destacados**
+* 📊 **Data Engineering Pipeline:** Pipeline completo de ingesta EL hacia un Data Lake.
+* ☁️ **Arquitectura Cloud & Terraform (PoC):** Diseño y despliegue de una arquitectura escalable utilizando redes virtuales (VNets) y grupos de seguridad (NSGs). Aplicación de principios de infraestructura como código (IaC).
+* 📈 **Observabilidad con Azure Data Explorer (ADX):** Construcción de soluciones de telemetría y análisis profundo de logs para operaciones IT.
 
 ---
 
-### 📊 Mis Estadísticas en GitHub
+### 🛠️ Tech Stack & Tools
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=raulchuco2000&show_icons=true&theme=radical&hide_border=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=raulchuco2000&theme=radical&hide_border=true" width="48%" />
-</div>
+**Cloud, DevOps & Security**
+![Azure](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white) ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white) ![Zero Trust](https://img.shields.io/badge/Zero_Trust-000000?style=for-the-badge)
+
+**Systems, Automation & Operations**
+![Windows Server](https://img.shields.io/badge/Windows_Server-0078D6?style=for-the-badge&logo=windows&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white) ![Active Directory](https://img.shields.io/badge/Active_Directory-0078D6?style=for-the-badge) ![ServiceNow](https://img.shields.io/badge/ServiceNow-81B5A1?style=for-the-badge)
+
+**Data, Business & Development**
+![Dynamics 365](https://img.shields.io/badge/Dynamics_365-002050?style=for-the-badge&logo=microsoft&logoColor=white) ![Power Platform](https://img.shields.io/badge/Power_Platform-FFB900?style=for-the-badge&logo=powerapps&logoColor=black) ![Azure Data Explorer](https://img.shields.io/badge/Azure_Data_Explorer-0089D6?style=for-the-badge)
