@@ -20,7 +20,7 @@ I focus on delivering real business value by reducing manual tasks and ensuring 
 
 🎓 **Current Studies & Certifications**
 * **Master's Degree:** Dynamics 365 & Power Platform (Started Sept 2026)
-* **Certifications:** Microsoft Certified: Fabric Data Engineer Associate (DP-700) | Fabric Analytics Engineer Associate (DP-600) | Azure Fundamentals (AZ-900) | Security & Compliance (SC-900) | M365 Copilot Admin
+* **Certifications:** Microsoft Certified: Fabric Data Engineer Associate (DP-700) | Fabric Analytics Engineer Associate (DP-600) | Azure Fundamentals (AZ-900) | Security & Compliance (SC-900) | M365 Copilot Admin | Power BI Data Analyst Associate (PL-300)
 * **In Preparation:** AZ-104, AZ-400
 
 📂 **Featured Projects**
