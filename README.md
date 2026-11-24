@@ -44,7 +44,7 @@ Me enfoco en aportar valor real al negocio reduciendo tareas manuales y aseguran
 
 🎓 **Formación y Certificaciones**
 * **Máster:** Consultor Dynamics 365 y Power Platform (Iniciado en Sept 2026)
-* **Certificaciones Oficiales:** Microsoft Certified: Fabric Data Engineer Associate (DP-700) | Fabric Analytics Engineer Associate (DP-600) | Azure Fundamentals (AZ-900) | Security & Compliance (SC-900) | M365 Copilot Admin
+* **Certificaciones Oficiales:** Microsoft Certified: Fabric Data Engineer Associate (DP-700) | Fabric Analytics Engineer Associate (DP-600) | Azure Fundamentals (AZ-900) | Security & Compliance (SC-900) | M365 Copilot Admin | Power BI Data Analyst Associate (PL-300).
 * **En preparación:** AZ-104, AZ-400
 
 📂 **Proyectos Destacados**
